@@ -1,15 +1,19 @@
 {
-  "name": "tyapp",
+  "name": "typescriptapp",
   "version": "1.0.0",
-  "description": "tyapscript and react",
+  "description": "TypeScript and React App",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "shi xihong",
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "Shi Xihong",
   "license": "ISC",
   "dependencies": {
     "react": "^15.0.1",
+    "react-bootstrap": "^0.29.0",
     "react-dom": "^15.0.1",
     "typescript": "^1.8.10"
   },
