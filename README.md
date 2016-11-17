@@ -1,5 +1,5 @@
 # bdots
-JavaScript Demo
+Typescript + React + Redux Demo
 
 
 run
